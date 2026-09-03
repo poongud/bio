@@ -1,8 +1,8 @@
 ---
-
 layout: default
-title: Poongudivanan Natarajan
-------------------------------
+title: "Poongudivanan Natarajan"
+description: "Software Architect | Adobe Commerce | Cloud | Composable Commerce | AI"
+---
 
 # 👋 Hi, I'm Poongudivanan Natarajan
 
