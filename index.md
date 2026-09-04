@@ -4,7 +4,6 @@ title: "Poongudivanan Natarajan"
 description: "Software Architect | Adobe Commerce | Cloud | Composable Commerce | AI"
 ---
 
-<!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="UTF-8">
