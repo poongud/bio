@@ -566,16 +566,8 @@ footer {
 
 
   <div class="profile-side">
-
-    <!--
-      Replace this placeholder later with:
-      <img class="avatar" src="assets/profile.jpg">
-    -->
-
-    <div class="avatar">
-      <span>PN</span>
-    </div>
-
+    
+    <img class="avatar" src="https://media.licdn.com/dms/image/v2/C5603AQERL2CrFN-_bw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1650297964136?e=1790208000&v=beta&t=A7X-iVwa0F_lwkOeX08l9cr8SsdwB-oGhoHOXQihzcQ">
     <div class="quote">
       “Good architecture isn't about using the newest technology.
       It's about making the right trade-offs for the problem you're solving.”
