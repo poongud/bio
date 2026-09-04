@@ -496,6 +496,14 @@ footer {
     font-size: 43px;
   }
 }
+
+.tamil-name {
+  margin: 10px 0 18px;
+  font-size: clamp(22px, 3vw, 30px);
+  font-weight: 600;
+  color: #c4b5fd;
+  letter-spacing: 0.3px;
+}
 </style>
 </head>
 
@@ -537,7 +545,7 @@ footer {
       Poongudivanan
       <span class="gradient-text">Natarajan</span>
     </h1>
-
+    <div class="tamil-name">பூங்குடிவாணன் நடராஜன்</div>
     <div class="subtitle">
       Software Architect | Adobe Commerce | Cloud |
       Composable Commerce | AI
